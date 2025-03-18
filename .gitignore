@@ -1,0 +1,7 @@
+   2.2.1.spring_hibernate/target/
+   2.2.1.spring_hibernate/src/main/resources/
+   **/target/
+   **/src/main/resources/
+   /.idea/
+   .idea
+   **/spring_hibernate.iml/
